@@ -1,7 +1,7 @@
 # DoS-Attack-High_Performance
 
 - This DoS-Attacker program is for education purposes only
-- The program is written in C++  
+- The program is written in C++ and uses openSSL and libCURL libraries
 - I squeezed out all the performance so..... 
 
 Step 1: Download
