@@ -115,7 +115,7 @@ namespace DoS{
 
 
 	}
-inline void Execute() {
+inline void Execute() noexcept{
 	const int total = std::thread::hardware_concurrency(); // OWN RISK TO CHANGE IF YOU CHANGE THERE WILL BE TASK SHIFTING PERFORMANCE PENALTY  ;)
 	std::vector<std::thread> vec;
 	vec.reserve(total);
