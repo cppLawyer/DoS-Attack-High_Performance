@@ -1,2 +1,30 @@
 # DoS-Attack-High_Performance
-DoS-Attack program for education purposes made with C++  i squeezed out all the performance so have fun
+
+- This DoS-Attacker program is for education purposes only
+- The program is written in C++  
+- I squeezed out all the performance so..... 
+
+Step 1: Download
+
+Step 2: #include
+
+Step 3: /
+
+Example:
+
+#include <iostream>
+#include "DoS.h"
+
+
+
+int main() {
+        
+DoS::Execute();
+
+return 0;
+}
+  
+\
+  
+Thats it....
+
